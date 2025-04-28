@@ -9,8 +9,7 @@ def start_game():
     # Player buttons
     b1.place(x=1000, y=400)
     b2.place(x=1000, y=500)
-   
-
+    
     # Initialize Pygame
     pygame.mixer.init()
 
