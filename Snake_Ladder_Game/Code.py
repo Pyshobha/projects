@@ -15,7 +15,7 @@ def start_game():
     pygame.mixer.init()
 
     # Load and play background music
-    pygame.mixer.music.load(r"C:\Users\Owner\Downloads\forest-ambience-296528.mp3")  # Change this to your music file path
+    pygame.mixer.music.load(r"C:\Users\Owner\Downloads\forest-ambience-296528.mp3") 
     pygame.mixer.music.play(-1)  # -1 means the music will loop indefinitely
 
    # global snake_sound
