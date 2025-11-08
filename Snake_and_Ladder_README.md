@@ -115,11 +115,6 @@ def declare_winner(player):
 
 ---
 
-## 📸 Preview
-> 🖼️ *(Add a screenshot or GIF of the game window here for your GitHub README.)*
-
----
-
 ## 💡 Future Improvements
 - Add **AI opponent mode** 🤖  
 - Add **sound effects for ladders/snakes** 🎵  
@@ -127,8 +122,3 @@ def declare_winner(player):
 - Add **animations** for dice rolling and player movement 🎬  
 
 ---
-
-## 👨‍💻 Author
-**Developed by:** *Shobha Jangade*  
-🎓 CSE (AI) Student, CSVTU  
-💻 Languages: Python, C++, C  
