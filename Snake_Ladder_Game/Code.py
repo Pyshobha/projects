@@ -140,7 +140,7 @@ root.geometry("1200x800")
 root.title("Snake and Ladder Game")
 
 # Board background
-img_path = r"C:\Users\Owner\Downloads\Screenshot 2024-10-18 214305 (2).png"
+img_path = r"C:\Users\Owner\Downloads\classic_board.png"
 img = Image.open(img_path)
 photo = ImageTk.PhotoImage(img)
 board_label = tk.Label(root, image=photo)
